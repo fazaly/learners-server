@@ -1,26 +1,26 @@
 [
     {
         "id": "01",
-        "name": "JavaScript"
+        "name": "Web Design BootCamp"
     },
     {
         "id": "02",
-        "name": "Python"
+        "name": "Professional Graphics Design"
     },
     {
         "id": "03",
-        "name": "Java"
+        "name": "UI/UX BootCamp"
     },
     {
         "id": "04",
-        "name": "PHP"
+        "name": "Basic Web Development Course"
     },
     {
         "id": "05",
-        "name": "C Programming"
+        "name": "Search Engine Optimization"
     },
     {
         "id": "06",
-        "name": "HTML & CSS"
+        "name": "Coding for Junior Basic Course"
     }
 ]
